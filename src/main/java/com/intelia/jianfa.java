@@ -16,6 +16,8 @@ public class jianfa {
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
+        System.out.println("独孤九剑");
+        System.out.println("独孤九剑");
 
         //红色 未追踪代码
         //绿色 暂存区
