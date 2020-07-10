@@ -18,9 +18,7 @@ public class JianFa {
 
 
         System.out.println("独孤九剑");
-        System.out.println("独孤九剑");
-        System.out.println("独孤九剑");
-        System.out.println("独孤九剑");
+
 
         System.out.println("辟邪剑法");
         System.out.println("辟邪剑法");
