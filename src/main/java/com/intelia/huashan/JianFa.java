@@ -1,4 +1,4 @@
-package com.intelia;
+package com.intelia.huashan;
 
 /**
  * @description TODO
